@@ -11,3 +11,11 @@
 
 <img align="center" src="V4T2.gif " width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
+## Status ⭐
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=m4ximino&show_icons=true&theme=onedark" />
+</a> &nbsp; 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" width='33.5%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4ximino&layout=compact&theme=onedark"/>  
+</a>
