@@ -5,5 +5,5 @@
 
 ## Hello world! <img src="aa728fa367842e992e709a6a90717aab.gif" width="30px">
 
-- ✍ I'm a computer science student at Ufal (Federal University of Alagoas).
+- 📚 I'm a computer science student at Ufal (Federal University of Alagoas).
 
