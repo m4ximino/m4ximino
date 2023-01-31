@@ -9,5 +9,5 @@
 - 🔢 Passionate about Mathematics.
 - 🧠 Computer Scientist | Data Science | Machine Learning | Data Analyst
 
-<img align="right" src="V4T2.gif " width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img align="center" src="V4T2.gif " width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
