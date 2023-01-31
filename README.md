@@ -9,7 +9,7 @@
 - 🔢 Passionate about Mathematics.
 - 🧠 Computer Scientist | Data Science | Machine Learning | Data Analyst
 
-<img align="center" src="V4T2.gif " width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<!-- <img align="center" src="V4T2.gif " width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></img> -->
 
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mayco-maximino-85a5b5213/) &nbsp;
