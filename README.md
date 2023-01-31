@@ -12,5 +12,5 @@
 <!-- <img align="center" src="V4T2.gif " width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></img> -->
 
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mayco-maximino-85a5b5213/) &nbsp;
-[![Instagram Usakimodoki Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/mayco_antunes/) &nbsp;
+   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/mayco-maximino-85a5b5213/) &nbsp;
+   [![Instagram Usakimodoki Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/mayco_antunes/) &nbsp;
