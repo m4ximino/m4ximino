@@ -1,4 +1,4 @@
-# Hey, I'm Rodrigo
+# Hey, I'm Mayco
 
 <!-- <img align="right" src="./assets/giphy.gif" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></img> -->
 
