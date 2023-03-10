@@ -7,7 +7,7 @@
 
 - 📚 I'm a computer science student at Ufal (Federal University of Alagoas).
 - 🔢 Passionate about exact sciences.
-- 🧠 Computer Scientist | Data Science | Machine Learning | Data Analyst.
+- 🧠 Computer Scientist | Data Science | Machine Learning | Data Analyst
 
 <!-- <img align="center" src="V4T2.gif " width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></img> -->
 
